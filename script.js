@@ -79,4 +79,4 @@ function usaha(gaya, perpindahan) {
     return (gaya * perpindahan);
 }
 
-alert(usaha(1000000000000000, 0));
+alert(usaha(1000, 0));
